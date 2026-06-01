@@ -28,9 +28,9 @@ Random Forest classification on GC-MS volatile compound profiles to identify the
 
 ---
 
-### [`negativity-bias-peer-review`](https://github.com/lakshya-katariya/negativity-bias-peer-review)
+### [`negative-potency-peer-review`](https://github.com/lakshya-katariya/negativity-bias-peer-review)
 
-How structured group deliberation corrects individual negativity bias in high-stakes evaluation panels. Ordered probit modelling on synthetic reviewer score data replicating the analytical structure of [Hottenrott, Katariya & Lopes-Bento (2025)](https://www.psycharchives.org/index.php/en/item/edfdf614-9ad1-46ce-a3ed-ca14ba9f0900).
+Can structured group deliberation correct individual negativity in high-stakes evaluation panels? Ordered probit modelling on synthetic reviewer score data replicating the analytical structure of [Hottenrott, Katariya & Lopes-Bento (2025)](https://www.psycharchives.org/index.php/en/item/edfdf614-9ad1-46ce-a3ed-ca14ba9f0900).
 
 `R` · `ordered probit` · `causal inference` · `decision science`
 
