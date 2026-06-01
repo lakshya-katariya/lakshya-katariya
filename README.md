@@ -10,7 +10,7 @@ Currently finishing a PhD at KU Leuven (Sep 2026) studying peer review, risk ave
 
 ## Methods & tools
 
-**Causal inference** · Field experiment · Ordered probit / probit · Mixed-effects models · Random Forest 
+**Causal inference** · Field experiments · Ordered probit / probit · Mixed-effects models · Random Forest
 
 **NLP & text** · SciBERT / semantic similarity · Sentiment analysis · Web scraping
 
@@ -20,34 +20,45 @@ Currently finishing a PhD at KU Leuven (Sep 2026) studying peer review, risk ave
 
 ## Featured projects
 
-### [`negativity-bias-peer-review`](link-when-live)
-Can structured group deliberation correct individual negativity bias in high-stakes evaluation panels. Ordered probit modelling on synthetic reviewer score data replicating the analytical structure of [Hottenrott, Katariya & Lopes-Bento (2025)](https://www.psycharchives.org/index.php/en/item/edfdf614-9ad1-46ce-a3ed-ca14ba9f0900).
+### [`termite-fungus-discrimination-rf`](https://github.com/lakshya-katariya/termite-fungus-discrimination-rf)
 
-`R` · `Python` · `ordered probit` · `probit` · `decision science`
+Random Forest classification on GC-MS volatile compound profiles to identify the chemical signals that allow fungus-farming termites to discriminate their crop fungus from a parasitic weed — without visual contact. Feature importance analysis identifies candidate "weedy scent" compounds. Replicates the ML analysis from [Katariya et al. (2017), *Journal of Chemical Ecology*](https://link.springer.com/article/10.1007/s10886-017-0902-4).
+
+`R` · `Random Forest` · `multivariate classification` · `feature importance` · `GC-MS data`
 
 ---
 
-### [`grant-review-risk-experiment`](link-when-live)
-Pre-analysis plan and full analytical framework for a field experiment testing alternate scoring criteria in grant review — designed to make risk–return trade-offs explicit and surface high-upside research proposals that standard review may systematically undervalue.
+### [`negativity-bias-peer-review`](https://github.com/lakshya-katariya/negativity-bias-peer-review)
+
+How structured group deliberation corrects individual negativity bias in high-stakes evaluation panels. Ordered probit modelling on synthetic reviewer score data replicating the analytical structure of [Hottenrott, Katariya & Lopes-Bento (2025)](https://www.psycharchives.org/index.php/en/item/edfdf614-9ad1-46ce-a3ed-ca14ba9f0900).
+
+`R` · `ordered probit` · `causal inference` · `decision science`
+
+---
+
+### [`grant-review-risk-experiment`](https://github.com/lakshya-katariya/grant-review-risk-experiment)
+
+Pre-analysis plan and analytical framework for a field experiment testing alternate scoring criteria in grant review — designed to make risk–return trade-offs explicit and surface high-upside research proposals that standard review may systematically undervalue.
 
 `R` · `Python` · `experimental design` · `causal inference` · `power analysis`
 
 ---
 
-### [`supervisor-matching-phd-outcomes`](link-when-live)
-Does supervisor match/mismatch help/hurt early-career researchers? Panel regression and survival analysis examining how matching and stability shape PhD productivity and funding success — at different career stages.
+### [`supervisor-matching-phd-outcomes`](https://github.com/lakshya-katariya/supervisor-matching-phd-outcomes)
 
-`R` · `Python` · `panel data` · `survival analysis` · `econometrics`
+Does supervisor match or mismatch help or hurt early-career researchers? Panel regression and survival analysis examining how matching and stability shape PhD productivity and funding success — at different career stages.
+
+`R` · `panel data` · `survival analysis` · `econometrics`
 
 ---
 
 ## Background
 
-- Researcher, Business Economics — KU Leuven, Belgium (2022–Ongoing)
+- PhD Researcher, Business Economics — KU Leuven, Belgium (2022–Ongoing)
 - PhD, Biological Sciences — Indian Institute of Science, Bangalore (2010–2017)
 - 10+ years of end-to-end analytical work across biomedical research, science policy, and applied economics
 - Published 4 papers (biology); 3 in preparation (economics); presented at 8 international conferences
 
 ---
 
-📧 lakshkatariya@gmail.com · Leuven, Belgium · [LinkedIn](https://be.linkedin.com/in/lakshyakatariya) · [Google Scholar](https://scholar.google.com/citations?user=iEpb8ycAAAAJ&hl=en) . [ORCID](https://orcid.org/0000-0001-5667-8281)
+📧 lakshkatariya@gmail.com · Leuven, Belgium · [LinkedIn](https://be.linkedin.com/in/lakshyakatariya) · [Google Scholar](https://scholar.google.com/citations?user=iEpb8ycAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-5667-8281)
