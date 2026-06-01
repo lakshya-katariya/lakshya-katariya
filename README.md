@@ -50,4 +50,4 @@ Does supervisor match/mismatch help/hurt early-career researchers? Panel regress
 
 ---
 
-📧 lakshkatariya@gmail.com · Leuven, Belgium · [LinkedIn](https://be.linkedin.com/in/lakshyakatariya) · [Google Scholar](https://scholar.google.com/citations?user=iEpb8ycAAAAJ&hl=en)
+📧 lakshkatariya@gmail.com · Leuven, Belgium · [LinkedIn](https://be.linkedin.com/in/lakshyakatariya) · [Google Scholar](https://scholar.google.com/citations?user=iEpb8ycAAAAJ&hl=en) . [ORCID](https://orcid.org/0000-0001-5667-8281)
