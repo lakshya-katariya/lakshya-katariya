@@ -10,7 +10,7 @@ Currently finishing a PhD at KU Leuven (Sep 2026) studying peer review, risk ave
 
 ## Methods & tools
 
-**Causal inference** · Field experiments · Ordered probit / probit · Mixed-effects models · Random Forest · Panel data methods · Survival analysis
+**Causal inference** · Field experiment · Ordered probit / probit · Mixed-effects models · Random Forest 
 
 **NLP & text** · SciBERT / semantic similarity · Sentiment analysis · Web scraping
 
@@ -21,33 +21,33 @@ Currently finishing a PhD at KU Leuven (Sep 2026) studying peer review, risk ave
 ## Featured projects
 
 ### [`negativity-bias-peer-review`](link-when-live)
-How structured group deliberation corrects individual negativity bias in high-stakes evaluation panels. Ordered probit modelling on synthetic reviewer score data replicating the analytical structure of [Hottenrott, Katariya & Lopes-Bento (SSRN 2025)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5379818).
+Can structured group deliberation correct individual negativity bias in high-stakes evaluation panels. Ordered probit modelling on synthetic reviewer score data replicating the analytical structure of [Hottenrott, Katariya & Lopes-Bento (2025)](https://www.psycharchives.org/index.php/en/item/edfdf614-9ad1-46ce-a3ed-ca14ba9f0900).
 
-`R` · `ordered probit` · `causal inference` · `decision science`
+`R` · `Python` · `ordered probit` · `probit` · `decision science`
 
 ---
 
 ### [`grant-review-risk-experiment`](link-when-live)
-Pre-analysis plan and full analytical framework for a field experiment testing Subjective Expected Utility scoring in grant review — designed to make risk–return trade-offs explicit and surface high-upside research proposals that standard review may systematically undervalue.
+Pre-analysis plan and full analytical framework for a field experiment testing alternate scoring criteria in grant review — designed to make risk–return trade-offs explicit and surface high-upside research proposals that standard review may systematically undervalue.
 
-`R` · `Python` · `experimental design` · `power analysis`
+`R` · `Python` · `experimental design` · `causal inference` · `power analysis`
 
 ---
 
 ### [`supervisor-matching-phd-outcomes`](link-when-live)
-Does switching supervisors help or hurt early-career researchers? Panel regression and survival analysis examining how matching and stability shape PhD productivity and funding success — at different career stages.
+Does supervisor match/mismatch help/hurt early-career researchers? Panel regression and survival analysis examining how matching and stability shape PhD productivity and funding success — at different career stages.
 
-`R` · `panel data` · `survival analysis` · `econometrics`
+`R` · `Python` · `panel data` · `survival analysis` · `econometrics`
 
 ---
 
 ## Background
 
-- PhD, Business Economics — KU Leuven, Belgium (2022–2026)
+- Researcher, Business Economics — KU Leuven, Belgium (2022–Ongoing)
 - PhD, Biological Sciences — Indian Institute of Science, Bangalore (2010–2017)
 - 10+ years of end-to-end analytical work across biomedical research, science policy, and applied economics
-- Published 4 papers (biology); 2 in preparation (economics); presented at 6 international conferences
+- Published 4 papers (biology); 3 in preparation (economics); presented at 8 international conferences
 
 ---
 
-📧 lakshkatariya@gmail.com · Leuven, Belgium · [LinkedIn](your-link) · [Google Scholar](your-link)
+📧 lakshkatariya@gmail.com · Leuven, Belgium · [LinkedIn](https://be.linkedin.com/in/lakshyakatariya) · [Google Scholar](https://scholar.google.com/citations?user=iEpb8ycAAAAJ&hl=en)
