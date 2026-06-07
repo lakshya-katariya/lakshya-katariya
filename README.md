@@ -2,9 +2,14 @@
 
 **Causal inference · Applied econometrics · NLP · Biomedical science**
 
-I design and analyse studies of how institutions make high-stakes decisions under uncertainty — and how those decisions can be improved. Dual PhD in biological sciences and business economics. I approach causal questions the way a biologist does: mechanisms first, not just treatment effects.
+I design and analyse studies of how institutions make high-stakes decisions
+under uncertainty — and how those decisions can be improved. Dual expertise in
+biological sciences and economics. I approach causal questions the way a
+biologist does: mechanisms first, not just treatment effects.
 
-Currently finishing a PhD at KU Leuven (Sep 2026) studying peer review, risk aversion, and decision-making in science funding using administrative data from the Luxembourg National Research Fund.
+Currently finishing my research at KU Leuven (Sep 2026) studying peer review,
+risk aversion, and decision-making in science funding using administrative
+data from a European funding agency.
 
 ---
 
@@ -22,43 +27,19 @@ Currently finishing a PhD at KU Leuven (Sep 2026) studying peer review, risk ave
 
 ### [`termite-fungus-discrimination-rf`](https://github.com/lakshya-katariya/termite-fungus-discrimination-rf)
 
-Random Forest classification on GC-MS volatile compound profiles to identify the chemical signals that allow fungus-farming termites to discriminate their crop fungus from a parasitic weed — without visual contact. Feature importance analysis identifies candidate "weedy scent" compounds. Replicates the ML analysis from [Katariya et al. (2017), *Journal of Chemical Ecology*](https://link.springer.com/article/10.1007/s10886-017-0902-4).
+Can a fungus's scent reveal what kind of organism it is? This repo applies
+Random Forest classification to GC-MS volatile compound profiles to identify
+discriminating compounds between fungal species and phyla. Part 1 replicates
+the analysis from [Katariya et al. (2017)](https://doi.org/10.1007/s10886-017-0902-4);
+Part 2 extends it to 39 species across two major fungal phyla using
+[Guo et al. (2021)](https://doi.org/10.1038/s42003-021-02198-8) data.
 
-`R` · `Random Forest` · `multivariate classification` · `feature importance` · `GC-MS data`
-
----
-
-### [`negative-potency-peer-review`](https://github.com/lakshya-katariya/negativity-bias-peer-review)
-
-Can structured group deliberation correct individual negativity in high-stakes evaluation panels? Ordered probit modelling on synthetic reviewer score data replicating the analytical structure of [Hottenrott, Katariya & Lopes-Bento (2025)](https://www.psycharchives.org/index.php/en/item/edfdf614-9ad1-46ce-a3ed-ca14ba9f0900).
-
-`R` · `ordered probit` · `causal inference` · `decision science`
+`R` · `Random Forest` · `varSelRF` · `multivariate classification` · `GC-MS data`
 
 ---
 
-### [`grant-review-risk-experiment`](https://github.com/lakshya-katariya/grant-review-risk-experiment)
+## Contact
 
-Pre-analysis plan and analytical framework for a field experiment testing alternate scoring criteria in grant review — designed to make risk–return trade-offs explicit and surface high-upside research proposals that standard review may systematically undervalue.
-
-`R` · `Python` · `experimental design` · `causal inference` · `power analysis`
-
----
-
-### [`supervisor-matching-phd-outcomes`](https://github.com/lakshya-katariya/supervisor-matching-phd-outcomes)
-
-Does supervisor match or mismatch help or hurt early-career researchers? Panel regression and survival analysis examining how matching and stability shape PhD productivity and funding success — at different career stages.
-
-`R` · `panel data` · `survival analysis` · `econometrics`
-
----
-
-## Background
-
-- PhD Researcher, Business Economics — KU Leuven, Belgium (2022–Ongoing)
-- PhD, Biological Sciences — Indian Institute of Science, Bangalore (2010–2017)
-- 10+ years of end-to-end analytical work across biomedical research, science policy, and applied economics
-- Published 4 papers (biology); 3 in preparation (economics); presented at 8 international conferences
-
----
-
-📧 lakshkatariya@gmail.com · Leuven, Belgium · [LinkedIn](https://be.linkedin.com/in/lakshyakatariya) · [Google Scholar](https://scholar.google.com/citations?user=iEpb8ycAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-5667-8281)
+[LinkedIn](https://be.linkedin.com/in/lakshyakatariya) ·
+[Google Scholar](https://scholar.google.com/citations?user=iEpb8ycAAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0000-0001-5667-8281)
